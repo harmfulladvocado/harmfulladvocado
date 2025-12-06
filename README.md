@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m a 15-year-old developer from Belgium, i love coding.<br>I mostly code in Skript, and I used to make <br>Scratch games (like big ones) but now way less 
-
+I’m a 15-year-old developer from Belgium, i love coding. I mostly code in Skript, Python & javascript
 
 [![wakatime](https://wakatime.com/badge/user/6909c62b-8320-4d38-a6df-cace250308f7.svg)](https://wakatime.com/@6909c62b-8320-4d38-a6df-cace250308f7)
 
