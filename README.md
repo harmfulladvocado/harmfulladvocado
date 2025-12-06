@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m a 15-year-old developer from Belgium, i love coding.<br>I mostly code in Skript, and I used to make <br>Scratch games (like big ones) but now way less 
-
+[![wakatime](https://wakatime.com/badge/github/harmfulladvocado/harmfulladvocado.svg)](https://wakatime.com/badge/github/harmfulladvocado/harmfulladvocado)
 
 ## 🌐 Connections:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1022221569340227594)
