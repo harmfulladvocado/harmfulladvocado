@@ -5,9 +5,6 @@ I’m a 15-year-old developer from Belgium, i love coding. I mostly code in Skri
 
 ## 🌐 Connections:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1022221569340227594)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Ok-Cartographer7359/)
-[![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?logo=roblox&logoColor=white)](https://roblox.com/users/1265633432/profile)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199654713013)
 [![🌐 Website](https://img.shields.io/badge/Website-000000.svg)](https://harmfulladvocado.me)
 
 
