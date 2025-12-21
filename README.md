@@ -6,7 +6,7 @@ I’m a 15-year-old developer from Belgium, i love coding. I mostly code in Skri
 ## 🌐 Connections:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1022221569340227594)
 [![🌐 Website](https://img.shields.io/badge/Website-000000.svg)](https://harmfulladvocado.me)
-![Spigotmc](https://www.spigotmc.org/members/vicctor158963.2185058/)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC-FF8800.svg?logo=spigot&logoColor=white)](https://www.spigotmc.org/members/vicctor158963.2185058/)
 
 
 # 💻 Experience In:
