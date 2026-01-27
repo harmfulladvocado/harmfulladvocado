@@ -21,7 +21,6 @@
 ![Pi-hole](https://img.shields.io/badge/-Pi--hole-000?&logo=pi-hole)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000?&logo=inkscape)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
-![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 
 ### Platforms
 
