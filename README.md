@@ -26,8 +26,3 @@
 
 ![Epic Games](https://img.shields.io/badge/-Epic%20Games-000?&logo=epic-games)
 ![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)
-
-<a href="https://harmfulladvocado.me">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
-</a>
