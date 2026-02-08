@@ -23,8 +23,3 @@
 ![Pi-hole](https://img.shields.io/badge/-Pi--hole-000?&logo=pi-hole)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000?&logo=inkscape)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
-
-### Platforms
-
-![Epic Games](https://img.shields.io/badge/-Epic%20Games-000?&logo=epic-games)
-![Steam](https://img.shields.io/badge/-Steam-000?&logo=steam)
