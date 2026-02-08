@@ -13,6 +13,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 ![Skript](https://img.shields.io/badge/-Skript-000)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Command Line](https://img.shields.io/badge/-Command%20Line-000?&logo=windows-terminal)
 
 ### Technologies & Tools
 
