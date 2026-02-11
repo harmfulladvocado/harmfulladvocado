@@ -23,6 +23,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
 ![Skript](https://img.shields.io/badge/-Skript-000)
 
 ### Technologies & Tools
