@@ -1,3 +1,6 @@
+![ezgif-4e75c7fb6adb89f4](https://github.com/user-attachments/assets/fe11e0c8-8646-4907-811a-a04109d90451)
+
+
 [![WakaTime](https://wakatime.com/badge/user/6909c62b-8320-4d38-a6df-cace250308f7.svg)](https://wakatime.com/@6909c62b-8320-4d38-a6df-cace250308f7)
 
 ### Connections
