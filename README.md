@@ -16,13 +16,13 @@
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
-![Skript](https://img.shields.io/badge/-Skript-000)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Skript](https://img.shields.io/badge/-Skript-000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Technologies & Tools
