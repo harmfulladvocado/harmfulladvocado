@@ -17,8 +17,6 @@
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
