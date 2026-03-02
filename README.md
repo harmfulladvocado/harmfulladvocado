@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
 ![Skript](https://img.shields.io/badge/-Skript-000)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Technologies & Tools
 
