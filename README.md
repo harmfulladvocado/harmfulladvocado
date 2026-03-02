@@ -35,4 +35,6 @@
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000?&logo=inkscape)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 ![Proton](https://img.shields.io/badge/-Proton-000?&logo=proton)
-[![Proton referral link](https://img.shields.io/badge/-Proton-000?&logo=proton)](https://account.proton.me/refer-a-friend?referrer=SAX6YB31s)
+<a href="https://account.proton.me/refer-a-friend?referrer=SAX6YB31s">
+  <img src="https://img.shields.io/badge/-Proton-000?&logo=proton" alt="Proton referral link">
+</a>
