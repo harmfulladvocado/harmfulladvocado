@@ -24,7 +24,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
 ![Skript](https://img.shields.io/badge/-Skript-000)
 
@@ -36,3 +35,4 @@
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000?&logo=inkscape)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 ![Proton](https://img.shields.io/badge/-Proton-000?&logo=proton)
+[Referal Link](https://account.proton.me/refer-a-friend?referrer=SAX6YB31s)
