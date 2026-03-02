@@ -6,10 +6,6 @@
 -   Convert the recording to a GIF using an online tool.
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=harmfulladvocado&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harmfulladvocado&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harmfulladvocado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 [![WakaTime](https://wakatime.com/badge/user/6909c62b-8320-4d38-a6df-cace250308f7.svg)](https://wakatime.com/@6909c62b-8320-4d38-a6df-cace250308f7)
 
 ### Connections
