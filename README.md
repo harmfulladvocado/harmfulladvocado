@@ -8,30 +8,24 @@
 
 [![WakaTime](https://wakatime.com/badge/user/6909c62b-8320-4d38-a6df-cace250308f7.svg)](https://wakatime.com/@6909c62b-8320-4d38-a6df-cace250308f7)
 
-### Connections
+## Connections
+[![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](https://discord.com/users/1022221569340227594)
+[![Website](https://img.shields.io/badge/-Website-000?&logo=globe)](https://harmfulladvocado.me)
+[![SpigotMC](https://img.shields.io/badge/-SpigotMC-000?&logo=minecraft)](https://www.spigotmc.org/members/vicctor158963.2185058/)
 
-[![](https://img.shields.io/badge/-Discord-000?&logo=discord)](https://discord.com/users/1022221569340227594)
-[![](https://img.shields.io/badge/-Website-000)](https://harmfulladvocado.me)
-[![](https://img.shields.io/badge/-SpigotMC-000)](https://www.spigotmc.org/members/vicctor158963.2185058/)
-
-### Languages
-
+## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Skript](https://img.shields.io/badge/-Skript-000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Technologies & Tools
-
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberry-pi)
-![Pi-hole](https://img.shields.io/badge/-Pi--hole-000?&logo=pi-hole)
-![Inkscape](https://img.shields.io/badge/-Inkscape-000?&logo=inkscape)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
-<a href="https://account.proton.me/refer-a-friend?referrer=SAX6YB31s">
-  <img src="https://img.shields.io/badge/-Proton-000?&logo=proton" alt="Proton referral link">
-</a>
+## Technologies & Tools
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22265?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+[![Proton](https://img.shields.io/badge/-Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=white)](https://account.proton.me/refer-a-friend?referrer=SAX6YB31s)
