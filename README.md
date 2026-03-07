@@ -6,7 +6,7 @@
 -   Convert the recording to a GIF using an online tool.
 -->
 
-[![WakaTime](https://wakatime.com/badge/user/6909c62b-8320-4d38-a6df-cace250308f7.svg)](https://wakatime.com/@6909c62b-8320-4d38-a6df-cace250308f7)
+[![WakaTime](https://wakatime.com/badge/user/6909c62b-8320-4d38-a6df-cace250308f7.svg)
 
 ## Connections
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](https://discord.com/users/1022221569340227594)
