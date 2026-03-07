@@ -14,15 +14,15 @@
 [![SpigotMC](https://img.shields.io/badge/-SpigotMC-000?&logo=minecraft)](https://www.spigotmc.org/members/vicctor158963.2185058/)
 
 ## Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Skript](https://img.shields.io/badge/skript-%23F18E33.svg?style=for-the-badge&logo=skript&logoColor=white)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/topics/html5)
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/topics/javascript)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+[![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/topics/bash)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/topics/git)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/topics/kotlin)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/topics/markdown)
+[![Skript](https://img.shields.io/badge/skript-%23F18E33.svg?style=for-the-badge&logo=skript&logoColor=white)](https://github.com/topics/skript)
 
 ## Technologies & Tools
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=white)
