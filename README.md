@@ -21,6 +21,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Skript](https://img.shields.io/badge/skript-%23F18E33.svg?style=for-the-badge&logo=skript&logoColor=white)
 
 ## Technologies & Tools
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=white)
