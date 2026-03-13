@@ -5,8 +5,6 @@
 -   Screen record the result.
 -   Convert the recording to a GIF using an online tool.
 -->
-<!--Github Stats thing-->
-[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HarmfullAdvocado?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![WakaTime](https://wakatime.com/badge/user/6909c62b-8320-4d38-a6df-cace250308f7.svg)
 
@@ -33,3 +31,6 @@
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 [![Proton](https://img.shields.io/badge/-Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=white)](https://account.proton.me/refer-a-friend?referrer=SAX6YB31s)
+
+<!--Github Stats thing-->
+[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HarmfullAdvocado?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
