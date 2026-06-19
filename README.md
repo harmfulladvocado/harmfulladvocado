@@ -7,7 +7,6 @@
 -->
 
 [![WakaTime](https://wakatime.com/badge/user/6909c62b-8320-4d38-a6df-cace250308f7.svg)
-this is lwky only my vscode i didn't have it on Intellij
 
 ## Connections
 [![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](https://discord.com/users/1022221569340227594)
