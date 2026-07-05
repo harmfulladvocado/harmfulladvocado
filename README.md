@@ -1,0 +1,30 @@
+## Connections
+[![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](https://discord.com/users/1022221569340227594)
+[![Website](https://img.shields.io/badge/-Website-000?&logo=firefox&logoColor=white)](https://harmfulladvocado.me)
+[![SpigotMC](https://img.shields.io/badge/-SpigotMC-EE6A27?&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/members/vicctor158963.2185058/)
+
+## Languages
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/topics/html5)
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/topics/javascript)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+[![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/topics/bash)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/topics/git)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/topics/kotlin)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/topics/csharp)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/topics/markdown)
+
+## Technologies & Tools
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22265?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+[![Proton](https://img.shields.io/badge/-Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=white)](https://account.proton.me/refer-a-friend?referrer=SAX6YB31s)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CachyOS](https://img.shields.io/badge/-CachyOS-00D2FF?style=for-the-badge&logo=archlinux&logoColor=white)
+![Mint](https://img.shields.io/badge/-Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
