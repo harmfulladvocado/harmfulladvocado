@@ -1,8 +1,7 @@
 ## Connections
 <div align="left">
-  <a href="https://discord.com/users/1022221569340227594"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://harmfulladvocado.me/"><img src="https://raw.githubusercontent.com/harmfulladvocado/harmfulladvocado/main/icons/firefox.png" height="48"/></a>
-  <a href="https://www.spigotmc.org/members/vicctor158963.2185058/"><img src="https://raw.githubusercontent.com/harmfulladvocado/harmfulladvocado/main/icons/spigotMC.png" height="48"/></a>
+  <a href="https://discord.com/users/1022221569340227594"><img src=https://skills.syvixor.com/api/icons?i=discord&perline=12&radius=40" /></a>
+  <a href="https://harmfulladvocado.me"><img src=https://skills.syvixor.com/api/icons?i=firefox&perline=12&radius=40" /></a>
 </div>
 
 ## Languages
@@ -12,10 +11,7 @@
 
 ## Technologies & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,raspberrypi,blender,linux,docker,idea,webstorm" />
-  <img src="https://raw.githubusercontent.com/harmfulladvocado/harmfulladvocado/main/icons/RustRover.png" height="48"/>  
-  <img src="https://raw.githubusercontent.com/harmfulladvocado/harmfulladvocado/main/icons/Jellyfin.png" height="48"/>
-  <img src="https://raw.githubusercontent.com/harmfulladvocado/harmfulladvocado/main/icons/GIMP.png" height="48"/>
+    <img src="https://skills.syvixor.com/api/icons?i=gimp,raspberrypi,kitty,cachyos,linux,docker,jellyfin,intellijidea,webstorm&perline=12&radius=40" alt="Skill Icons" />    
 </div>
 
-<!-- The icons are made with GIMP, you can use them :) -->
+<!-- The icons are made with GIMP check the LICENSE, you can use them :) -->
