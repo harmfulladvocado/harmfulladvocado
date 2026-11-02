@@ -13,7 +13,7 @@ const harmfulladvocado = {
     age: 16,
     role: "Full Stack Developer",
     location: "Belgium 🇧🇪",
-    interests: ["Privacy", "Open source", "Tech", "Reverse engineering"],
+    interests: ["Privacy", "Open source", "Tech", "Reverse engineering", "Security"],
 };
 ```
 
@@ -26,7 +26,7 @@ const harmfulladvocado = {
 <h2 align="center">Technologies &amp; Tools</h2>
 
 <div align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=git,gimp,linux,docker,intellijidea,webstorm,rustrover&perline=12&radius=40" alt="Skill Icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=git,gimp,linux,nushell,grapheneos,docker,intellijidea,webstorm,rustrover&perline=12&radius=40" alt="Skill Icons" />
 </div>
 
 <h2 align="center">Github Stats</h2>
